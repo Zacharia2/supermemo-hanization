@@ -6,6 +6,7 @@
 可能需要的文件；sm19.01.exe、sm18.chs（懒人包）
 
 - sm18cs.glo supermemo18懒人包的术语文件
+- .glo术语文件采用的文本编码为UTF-16 LE。TAB制表符分割。
 - script1.py 对比passolo导出的文本格式生成术语文件的预处理文件。
 - sm19c.lpu 19.01的汉化项目。
 - sm19c-1.lpu 19.01导入sm18cs.glo术语文件后的汉化项目 50%的汉化进度。
